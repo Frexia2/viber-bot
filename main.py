@@ -19,7 +19,7 @@ viber = Api(BotConfiguration(
     auth_token='50ea4ee5f167e2ed-a613b60765c505d0-d6bd738bd4204715'
 ))
 
-viber.set_webhook('https://chatapi.viber.com/pa/set_webhook ')
+viber.set_webhook('https://api.render.com/deploy/srv-ch1ujudgk4qarqmjsv90?key=MwNC2NJpHXM')
 
 
 @app.route('/', methods=['POST'])
